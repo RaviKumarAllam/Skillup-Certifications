@@ -1,2 +1,4 @@
 # Skillup-Certifications
-Completing both Machine Learning and Data Science Certification in Skilup.
+1. Machine Learning Certificate
+2. Data Science Certificate
+3. Tableau Training Certificate
